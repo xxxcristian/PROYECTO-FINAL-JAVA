@@ -1,0 +1,72 @@
+html{
+    font-family: verdana;
+    font-size: 12px;
+}
+
+body{
+    background:url("../img/fondo3.jpg") no-repeat center center fixed;
+    background-color: blue;
+    color:#ecf0f1;
+}
+
+h1{
+    font-size: 2em;
+    color: #2980b9;
+    border-bottom: #2980b9 solid thin;
+}
+.page{
+    width: 1000px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: tomato;
+    color: #F2F2F2;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    box-shadow: inset 0 0 10px  #000;
+}
+.header{
+    width: 970px;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+    color: #848484;
+    box-shadow: inset 0 0 10px  #000;
+}
+.menu{
+    width: 970px;
+    margin: 10px;
+    padding: 5px;
+    background-color: aqua;
+    color: #080808;
+    text-align: center;
+    box-shadow: inset 0 0 10px  #000;
+}
+.content{
+    width: 970px;
+    margin: 10px;
+    padding: 5px;
+    background-color:aqua;
+    color: #424242;
+    box-shadow: inset 0 0 10px  #000;
+}
+.pie{
+    width: 970px;
+    margin: 10px;
+    padding: 5px;
+    background-color: aqua;
+    color: #0A2A12;
+    box-shadow: inset 0 0 10px  #000;
+}
+.egcc_error{
+    padding: 15px;
+    background-color: #FFE4E1;
+    color: #008080;
+    box-shadow: inset 0 0 10px  #000;
+}
+.egcc_mensaje{
+    padding: 15px;
+    background-color: #DCDCDC;
+    color: #008080;
+    box-shadow: inset 0 0 10px  #000;
+}

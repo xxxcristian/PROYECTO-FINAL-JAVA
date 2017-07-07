@@ -1,0 +1,15 @@
+admin
+usuario:villegas 
+clave:villegas
+ 
+operadora
+usuario:dania 
+clave:dania
+
+vendedor
+usuario:carmen 
+clave:carmen
+
+usuario
+usuario:campos 
+clave:campos

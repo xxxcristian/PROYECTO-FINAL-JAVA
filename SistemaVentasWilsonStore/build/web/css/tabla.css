@@ -1,0 +1,32 @@
+.form{
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-shadow: inset 0 0 20px  #000;
+}
+.tftable{
+    border-collapse:collapse;
+    width:150%;
+    font-family: "Arial";
+    text-align:center;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-shadow: inset 0 0 20px  #000;
+}
+.tftable th{
+    background-color:black;
+    color:white;
+}
+.tftable tr{
+    background-color: #F2F2F2;
+}
+.tftable td {font-size:12px;
+             border-width: 1px;
+             padding: 8px;
+             border-style: solid;
+             border-color: #729ea5;
+}
+.tftable tr:hover {
+    background-color:#ffffff;
+}
